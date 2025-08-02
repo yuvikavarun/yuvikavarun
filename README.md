@@ -25,19 +25,22 @@ I'm a student currently pursuing my Bachelor's in Data Science and Applications 
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-## 🔧 Tools & Libraries
+## 🔧 Skills
 
 [![VS Code](https://img.shields.io/badge/VS_Code-yellow?style=for-the-badge&logo=visualstudiocode&logoColor=black)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black)](#)
 [![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind-yellow?style=for-the-badge&logo=tailwindcss&logoColor=black)](#)
-
-## 🧪 Others
-
 [![GIS](https://img.shields.io/badge/GIS-green?style=for-the-badge)](#)
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-green?style=for-the-badge)](#)
 [![SciPy](https://img.shields.io/badge/SciPy-green?style=for-the-badge&logo=scipy&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-green?style=for-the-badge&logo=canva&logoColor=white)](#)
+
+## 📈 GitHub Stats
+
+![Yuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvikavarun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikavarun&layout=compact&theme=radical)
+
 
 ## 🤝 Let’s Connect
 
