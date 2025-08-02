@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Yuvika!
+# Hey there, I’m Yuvika!
 
 I'm a student currently pursuing my Bachelor's in Data Science and Applications from IIT Madras. I spend most of my time juggling between Python scripts, satellite images, filming content, and a million browser tabs.
 
@@ -12,34 +12,37 @@ I'm a student currently pursuing my Bachelor's in Data Science and Applications 
   
 ## 💡 My Recent Neurodivergent Hyperfixations
 
-[![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-purple?style=for-the-badge)](#)
-[![Research](https://img.shields.io/badge/Research-purple?style=for-the-badge)](#)
-[![Astrophysics](https://img.shields.io/badge/Astrophysics-purple?style=for-the-badge)](#)
-[![Defense & Space Tech](https://img.shields.io/badge/Defense_&_Space_Tech-purple?style=for-the-badge)](#)
-[![Literature](https://img.shields.io/badge/Literature_&_Screenplay-purple?style=for-the-badge)](#)  
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-907aa9?style=for-the-badge&logoColor=white)
+![Research](https://img.shields.io/badge/Research-d7827e?style=for-the-badge&logoColor=white)
+![Astrophysics](https://img.shields.io/badge/Astrophysics-286983?style=for-the-badge&logoColor=white)
+![Defense & Space Tech](https://img.shields.io/badge/Defense_&_Space_Tech-9ccfd8?style=for-the-badge&logoColor=white)
+![Literature & Screenplay](https://img.shields.io/badge/Literature_&_Screenplay-e0def4?style=for-the-badge&logoColor=black) 
 
 ## 🛠️ Tech Stack
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](#)
+![Python](https://img.shields.io/badge/Python-907aa9?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-286983?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-d7827e?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9ccfd8?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔧 Skills
 
-[![VS Code](https://img.shields.io/badge/VS_Code-yellow?style=for-the-badge&logo=visualstudiocode&logoColor=black)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black)](#)
-[![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=black)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind-yellow?style=for-the-badge&logo=tailwindcss&logoColor=black)](#)
-[![GIS](https://img.shields.io/badge/GIS-green?style=for-the-badge)](#)
-[![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-green?style=for-the-badge)](#)
-[![SciPy](https://img.shields.io/badge/SciPy-green?style=for-the-badge&logo=scipy&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-green?style=for-the-badge&logo=canva&logoColor=white)](#)
+![VS Code](https://img.shields.io/badge/VS_Code-e0def4?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-907aa9?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6e6a86?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-286983?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-9ccfd8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-e0def4?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-907aa9?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6e6a86?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-286983?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-9ccfd8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## 📈 GitHub Stats
 
-![Yuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvikavarun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikavarun&layout=compact&theme=radical)
+![Yuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvikavarun&show_icons=true&theme=rose_pine&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yuvikavarun&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikavarun&layout=compact&theme=rose_pine)
 
 
 ## 🤝 Let’s Connect
