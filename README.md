@@ -12,10 +12,10 @@ I'm a student currently pursuing my Bachelor's in Data Science and Applications 
   
 ## 💡 My Recent Neurodivergent Hyperfixations
 
-[![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-purple?style=for-the-badge)](#)  
+[![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-purple?style=for-the-badge)](#)
 [![Research](https://img.shields.io/badge/Research-purple?style=for-the-badge)](#)
-[![Astrophysics](https://img.shields.io/badge/Astrophysics-purple?style=for-the-badge)](#)  
-[![Defense & Space Tech](https://img.shields.io/badge/Defense_&_Space_Tech-purple?style=for-the-badge)](#)  
+[![Astrophysics](https://img.shields.io/badge/Astrophysics-purple?style=for-the-badge)](#)
+[![Defense & Space Tech](https://img.shields.io/badge/Defense_&_Space_Tech-purple?style=for-the-badge)](#)
 [![Literature](https://img.shields.io/badge/Literature_&_Screenplay-purple?style=for-the-badge)](#)  
 
 ## 🛠️ Tech Stack
