@@ -32,11 +32,6 @@ I'm a student currently pursuing my Bachelor's in Data Science and Applications 
 ![GitHub](https://img.shields.io/badge/GitHub-6e6a86?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-286983?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-9ccfd8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-e0def4?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Git](https://img.shields.io/badge/Git-907aa9?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6e6a86?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-286983?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-9ccfd8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## 📈 GitHub Stats
 
