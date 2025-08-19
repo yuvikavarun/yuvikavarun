@@ -20,10 +20,10 @@ I'm a student currently pursuing my Bachelor's in Data Science and Applications 
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-907aa9?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-286983?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-d7827e?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-9ccfd8?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Python-907aa9?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML-286983?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-d7827e?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/SQL-9ccfd8?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔧 Skills
 
