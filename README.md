@@ -1,34 +1,65 @@
-# Hey there, I’m Yuvika!
+<div align="center">
 
-I'm a student currently pursuing my Bachelor's in Data Science and Applications from IIT Madras. I spend most of my time juggling between Python scripts, satellite images, filming content, and a million browser tabs.
-  
-## 💡 My Recent Hobbies
+<!-- Animated Space/Astrophysics Banner -->
 
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-907aa9?style=for-the-badge&logoColor=white)
-![Research](https://img.shields.io/badge/Research-d7827e?style=for-the-badge&logoColor=white)
-![Astrophysics](https://img.shields.io/badge/Astrophysics-286983?style=for-the-badge&logoColor=white)
-![Defense & Space Tech](https://img.shields.io/badge/Defense_&_Space_Tech-9ccfd8?style=for-the-badge&logoColor=white)
-![Literature & Screenplay](https://img.shields.io/badge/Literature_&_Screenplay-e0def4?style=for-the-badge&logoColor=black) 
+<img src="https://www.google.com/search?q=https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Space Banner" style="border-radius: 15px; margin-bottom: 15px;">
 
-## 🛠️ Tech Stack
+<h1>Hey there, I’m Yuvika! 🛰️</h1>
 
-![](https://img.shields.io/badge/Python-907aa9?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/HTML-286983?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-d7827e?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SQL-9ccfd8?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Animated Typing Text -->
 
-## 📈 GitHub Stats
+<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D1000%26color%3Dd7827e%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DData%2BScience%2B%2540%2BIIT%2BMadras%3BRemote%2BSensing%2B%2526%2BAstrophysics%3BPython%2B%257C%2BSQL%2B%257C%2BWeb%3BFilmmaking%2B%2526%2BScreenplay" alt="Typing SVG" />
+</a>
 
-![Yuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvikavarun&show_icons=true&theme=rose_pine&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yuvikavarun&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikavarun&layout=compact&theme=rose_pine)
+<p>
+I spend most of my time juggling between <b>Python scripts</b>, <b>satellite images</b>, <b>filming content</b>, and a million browser tabs.
+</p>
+
+</div>
+
+<div align="center">
+
+🌌 Domains & Interests
+
+<img src="https://img.shields.io/badge/Remote_Sensing-907aa9?style=for-the-badge&logoColor=white" alt="Remote Sensing"> <img src="https://img.shields.io/badge/Astrophysics-286983?style=for-the-badge&logoColor=white" alt="Astrophysics"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Defense_&Space_Tech-9ccfd8?style=for-the-badge&logoColor=white" alt="Defense"> <img src="https://img.shields.io/badge/Research-d7827e?style=for-the-badge&logoColor=white" alt="Research"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Literature&_Screenplay-e0def4?style=for-the-badge&logoColor=black" alt="Literature">
+
+🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Python-907aa9?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-9ccfd8?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/HTML-286983?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-d7827e?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+
+</div>
+
+<!-- Stats Grid Layout -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyuvikavarun%26show_icons%3Dtrue%26theme%3Drose_pine%26count_private%3Dtrue%26hide_border%3Dtrue" width="48%" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dyuvikavarun%26theme%3Drose_pine%26hide_border%3Dtrue%26date_format%3DM%2520j%255B%252C%2520Y%255D" width="48%" alt="GitHub Streak" />
 
 
-## 🤝 Let’s Connect
 
-- 📫 Email: `yuvikavarun5@gmail.com` (or send a cat if that fails)
-- 💼 LinkedIn: [linkedin.com/in/yuvikavarun](https://www.linkedin.com/in/yuvikavarun)
 
----
 
-_“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies, were made in the interiors of collapsing stars. We are all made of star stuff.” – Carl Sagan_
+
+
+<!-- Changed top languages to a compact donut chart style -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyuvikavarun%26layout%3Ddonut%26theme%3Drose_pine%26hide_border%3Dtrue%26card_width%3D600" width="60%" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+📫 Let's Connect!
+<a href="https://www.linkedin.com/in/yuvikavarun"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-286983%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="mailto:yuvikavarun5@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-d7827e%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+(send a cat if the email fails 🐈)
+
+
+
+
+“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies, were made in the interiors of collapsing stars. We are all made of star stuff.” 
+
+
+
+ – Carl Sagan
+
+</div>
