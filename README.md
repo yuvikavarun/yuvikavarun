@@ -38,7 +38,7 @@ I spend most of my time juggling between <b>Python scripts</b>, <b>satellite ima
 
 <!-- Changed top languages to a compact donut chart style -->
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyuvikavarun%26layout%3Ddonut%26theme%3Drose_pine%26hide_border%3Dtrue%26card_width%3D600" width="60%" alt="Top Languages" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikavarun%26layout=donut%26theme=rose_pine%26hide_border=true%26card_width=600" width="60%" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -47,10 +47,10 @@ I spend most of my time juggling between <b>Python scripts</b>, <b>satellite ima
 
 (Or send a cat if the email fails 🐈)
 
-<a href="https://www.linkedin.com/in/yuvikavarun"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-286983%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="mailto:yuvikavarun5@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-d7827e%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+<a href="https://www.linkedin.com/in/yuvikavarun"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/LinkedIn-286983?style=for-the-badge%26logo=linkedin%26logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:yuvikavarun5@gmail.com"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Email-d7827e?style=for-the-badge%26logo=gmail%26logoColor=white" alt="Email"></a>
 
-“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies, were made in the interiors of collapsing stars. We are all made of star stuff.” >
+“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies, were made in the interiors of collapsing stars. We are all made of star stuff.”
 – Carl Sagan
 
 </div>
