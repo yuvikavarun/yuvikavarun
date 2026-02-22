@@ -1,10 +1,8 @@
-<div align="center">
+<div align="left">
 
-<img src="https://i0.wp.com/media1.giphy.com/media/DZD6OikL9NHxK/giphy.gif" width="100%" />
-
-### Helloo, I'm Yuvika! 👋
-
-![Views](https://komarev.com/ghpvc/?username=yuvikavarun&color=eb6f92&style=flat-square&label=PROFILE+VIEWS)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=4A90E2&center=true&vCenter=true&width=520&lines=Hey,+I'm+Yuvika!;Welcome+to+my+GitHub+Profile;">
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IIT_Madras-Data_Science-blue?style=flat-square&logo=google-scholar&logoColor=white" />
@@ -13,24 +11,19 @@
 
 ---
 
-### **My Current Interests**
+### **About Me:**
+I'm Yuvika Varun, a 20 year old Data Science undergrad at IIT Madras. My current interests are; Computational Astrophysics, Front End Development, Machine Learning, Mathematics, Physics, STEM Communication, Statistics, Literature & Theatre.
+My long term goal is to become a Computational Astrophyscist, and/or become a science communicator to help and inspire more people to persue a career in STEM.
 
-![Computational Astrophysics](https://img.shields.io/badge/Computational_Astrophysics-9ccfd8?style=for-the-badge)
-![Content Creation](https://img.shields.io/badge/Content_Creation-f6c177?style=for-the-badge)
-![Front End Development](https://img.shields.io/badge/Front_End_Development-c4a7e7?style=for-the-badge)
-![Literature](https://img.shields.io/badge/Literature-31748f?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ebbcba?style=for-the-badge)
-![Math](https://img.shields.io/badge/Math-907aa9?style=for-the-badge)
-![Physics](https://img.shields.io/badge/Physics-524f67?style=for-the-badge)
-![Science Communication](https://img.shields.io/badge/Science_Communication-eb6f92?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-9ccfd8?style=for-the-badge)
-![Theater](https://img.shields.io/badge/Theater-f6c177?style=for-the-badge)
+Here are some of my recent projects:
+- **[GENOSYNTH](https://www.genosynth-v3.vercel.app)**
+- **[GrammarBuddy](grammarbuddy.in)**
+- **[Planet Pulse](yuvikavarun.github.io/planet-pulse/)**
+- **[Periodic Palette](yuvikavarun/github.io/periodic-palette/)**
 
-### **My Recent Projects**
-**[GENOSYNTH](https://www.genosynth-v3.vercel.app)**
+---
 
-
-### **Tech Stack**
+### **Tech Stack:**
 
 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -38,14 +31,20 @@
 
 **Data & ML** `Scikit-Learn` • `Pandas` • `NumPy`
 
-### **GitHub Stats**
+---
 
+<div align="center">
+  
 <img src="https://streak-stats.demolab.com?user=yuvikavarun&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/yuvikavarun)
+
+</div>
 
 
 ---
 
-**Let’s Connect**
+**Let’s Connect:**
 [Email](mailto:yuvikavarun5@gmail.com) , [LinkedIn](https://www.linkedin.com/in/yuvikavarun) , [Instagram](https://www.instagram.com/yuvikavarun)
 (send a cat if these fail)
 
