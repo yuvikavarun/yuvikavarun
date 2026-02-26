@@ -16,7 +16,7 @@ I'm Yuvika Varun, a 20 year old Data Science undergrad at IIT Madras. My current
 My long term goal is to become a Computational Astrophyscist, and/or become a science communicator to help and inspire more people to persue a career in STEM.
 
 Here are some of my recent web dev projects:
-- **[GENOSYNTH](https://www.genosynth-v3.vercel.app)**
+- **[GENOSYNTH](www.genosynth-v3.vercel.app)**
 - **[GrammarBuddy](grammarbuddy.in)**
 - **[Planet Pulse](yuvikavarun.github.io/planet-pulse/)**
 - **[Periodic Palette](yuvikavarun/github.io/periodic-palette/)**
