@@ -12,8 +12,8 @@
 ---
 
 ### **About Me:**
-I'm Yuvika Varun, a 20 year old Data Science undergrad at IIT Madras. My current interests are; Computational Astrophysics, Front End Development, Machine Learning, Mathematics, Physics, STEM Communication, Statistics, Literature & Theatre.
-My long term goal is to become a Computational Astrophyscist, and/or become a science communicator to help and inspire more people to persue a career in STEM.
+I'm Yuvika Varun, a 20 year old Data Science undergrad at IIT Madras. My current interests are; Computational Astrophysics, Front End Development, Machine Learning, Mathematics, Physics, STEM Communication, Statistics, Literature & Theatre. My long term goal is to become a Computational Astrophyscist, and/or an educator & science communicator to help and inspire more people to persue a career in STEM. 
+
 
 Here are some of my recent web dev projects:
 - **[GENOSYNTH](https://www.genosynth-v3.vercel.app)**
