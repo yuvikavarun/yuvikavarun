@@ -16,10 +16,11 @@ I'm Yuvika Varun, a 20 year old Data Science undergrad at IIT Madras. My current
 
 
 Here are some of my recent web dev projects:
-- **[GENOSYNTH](https://www.genosynth-v3.vercel.app)**
-- **[GrammarBuddy](grammarbuddy.in)**
-- **[Planet Pulse](yuvikavarun.github.io/planet-pulse/)**
-- **[Periodic Palette](yuvikavarun/github.io/periodic-palette/)**
+- [Girl Math](girl-math-two.vercel.app) - an app to practice basic math
+- [Geno Synth](https://www.genosynth-v3.vercel.app) - DNA sonification app
+- [Grammar Buddy](grammarbuddy.in) - pratice English grammar
+- [Planet Pulse](yuvikavarun.github.io/planet-pulse/)
+- [Periodic Palette](yuvikavarun/github.io/periodic-palette/) - an interative periodic table
 
 ---
 
