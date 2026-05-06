@@ -7,10 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IIT_Madras-Data_Science-blue?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Computational_Astrophysics-eb6f92?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krithika-va&label=Profile+Views&color=4A90E2&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=yuvikavarun&label=Profile+Views&color=4A90E2&style=flat" />
 </p>
 
 ---
