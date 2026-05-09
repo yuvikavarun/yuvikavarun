@@ -17,11 +17,11 @@ I'm Yuvika Varun, a 20 year old Data Science undergrad at IIT Madras. My current
 
 
 Here are some of my recent web dev projects:
-1. [Circumbinary Planet Simulation](https://circumbinary-gravity-simulation.vercel.app/)
-2. [Girl Math](girl-math-two.vercel.app) : an app to practice basic math
-3. [Geno Synth](https://www.genosynth-v3.vercel.app) : DNA sonification app
-4. [Grammar Buddy](grammarbuddy.in) : pratice English grammar
-5. [Planet Pulse](yuvikavarun.github.io/planet-pulse/)
+1. [Circumbinary Planet Simulation](https://circumbinary-gravity-simulation.vercel.app/) : a p-tyoe circumbinary planet simulation using JS &  WebGL
+2. [Girl Math](girl-math-two.vercel.app) : an goofy app to practice basic math
+3. [Geno Synth](https://www.genosynth-v3.vercel.app) : a DNA sonification app
+4. [Grammar Buddy](grammarbuddy.in) : a webapp to gamify English grammar
+5. [Planet Pulse](yuvikavarun.github.io/planet-pulse/) : a dashboard to Earth's atmosphere
 6. [Periodic Palette](yuvikavarun/github.io/periodic-palette/) - an interative periodic table
 
 ---
@@ -48,7 +48,7 @@ Here are some of my recent web dev projects:
 ---
 
 **Let’s Connect:**
-[Email](mailto:yuvikavarun5@gmail.com) , [LinkedIn](https://www.linkedin.com/in/yuvikavarun) , [Instagram](https://www.instagram.com/yuvikavarun)
+[LinkedIn](https://www.linkedin.com/in/yuvikavarun) , [Instagram](https://www.instagram.com/yuvistudies
 (send a cat if these fail)
 
 ---
