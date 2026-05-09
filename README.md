@@ -48,7 +48,7 @@ Here are some of my recent web dev projects:
 ---
 
 **Let’s Connect:**
-[LinkedIn](https://www.linkedin.com/in/yuvikavarun) , [Instagram](https://www.instagram.com/yuvistudies
+[LinkedIn](https://www.linkedin.com/in/yuvikavarun) , [Instagram](https://www.instagram.com/yuvistudies)
 (send a cat if these fail)
 
 ---
